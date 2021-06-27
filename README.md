@@ -5,7 +5,7 @@ Mood Match is a place to find someone with your current mood. Many a times we fe
 
 ![img](https://static.us.edusercontent.com/files/cMKGd4hRLR2HL8M4QU5jgIxk)
 
-![img](https://static.us.edusercontent.com/files/cMKGd4hRLR2HL8M4QU5jgIxk)
+![img](https://static.us.edusercontent.com/files/2thVFIuSf294wcniXgn11fnw)
 
 ![img](https://static.us.edusercontent.com/files/gtgN6L3cgVvyLqze4IY4wwsn)
 
