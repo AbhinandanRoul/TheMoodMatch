@@ -5,8 +5,8 @@ Mood Match is a place to find someone with your current mood. Many a times we fe
 <img src="https://static.us.edusercontent.com/files/gtgN6L3cgVvyLqze4IY4wwsn" width="500" align="center" />
   </p>
 <p float="left">
-<img src="https://static.us.edusercontent.com/files/cMKGd4hRLR2HL8M4QU5jgIxk" width="450" height="450"/> 
-<img src="https://static.us.edusercontent.com/files/2thVFIuSf294wcniXgn11fnw" width="450"  height="450"/> 
+<img src="https://static.us.edusercontent.com/files/cMKGd4hRLR2HL8M4QU5jgIxk" width="400" height="450"/> 
+<img src="https://static.us.edusercontent.com/files/2thVFIuSf294wcniXgn11fnw" width="400"  height="450"/> 
   </p>
 
 
